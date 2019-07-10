@@ -174,3 +174,11 @@ a:focus,
 a:hover {
   color: #824027;
 }
+
+.black-banner {
+  position: absolute;
+  z-index: 10;
+  bottom: 50px;
+  opacity: 0.9;
+  box-shadow: 5px 5px 2px 1px rgba(0, 0, 0, 0.5);
+}
